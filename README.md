@@ -10,3 +10,12 @@ As a moderate conservatie in todays society, the state of the 2016 race has left
 <img src="2f1d5d462fb7623e6972d329aa400efa.png">
 <img src="2f1d5d462fb7623e6972d329aa400efa.png">
 <img src="122266-004-4FE286BB.jpg">
+
+My pages are...
+1.	Home 
+
+2.	Best Comebacks (http://natehotes.github.io/WPD/sub1/index.html)
+
+3.	Positions (http://natehotes.github.io/WPD/sub2/index.html)
+
+4.	 Obituary page (http://natehotes.github.io/WPD/sub3/Untitled-1.html)
